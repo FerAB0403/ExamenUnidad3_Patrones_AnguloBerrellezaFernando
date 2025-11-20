@@ -1,0 +1,8 @@
+C:\Users\MSI\Documents\Patrones de Diseño\U3Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\MSI\Documents\Patrones de Diseño\U3Examen\Examen\bin\Debug\Examen.exe
+C:\Users\MSI\Documents\Patrones de Diseño\U3Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\MSI\Documents\Patrones de Diseño\U3Examen\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\Patrones de Diseño\U3Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Patrones de Diseño\U3Examen\Examen\obj\Debug\Examen.exe
+C:\Users\MSI\Documents\Patrones de Diseño\U3Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\MSI\Documents\Patrones de Diseño\U3Examen\Examen\obj\Debug\Examen.exe.config
